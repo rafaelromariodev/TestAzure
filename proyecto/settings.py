@@ -108,6 +108,8 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+STATIC_ROOT = 'static'
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/2.1/topics/i18n/
