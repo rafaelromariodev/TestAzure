@@ -77,8 +77,8 @@ WSGI_APPLICATION = 'proyecto.wsgi.application'
 DATABASES = {
     'default':{
         'ENGINE': 'sql_server.pyodbc',
-        'NAME': 'netManagerDB',
-        'HOST': 'hyllos.database.windows.net',
+        'NAME': 'netSoporteTest',
+        'HOST': 'sicya.database.windows.net',
         'PORT': '1433',
         'USER': 'afrodita',
         'PASSWORD': 'M@st3rKey',
